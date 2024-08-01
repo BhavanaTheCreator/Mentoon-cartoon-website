@@ -22,12 +22,14 @@ import 'react-toastify/dist/ReactToastify.css';
 import Allproducts from './pages/allproducts/Allproducts';
 import Contact from './pages/Contact/Contact'
 import About from './pages/About/About'
+
 function App() {
   return (
     
     <MyState>
       <Router>
         <Routes>
+          <Navigate to="/home" />
           <Route path="/home" element={<Home />} />
           <Route path="/allproducts" element={<Allproducts />} />
           <Route path="/Contact" element={<Contact/>} />
