@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/Mentoon-cartoon-website/static/css/main.f39140d6.css",
+    "main.js": "/Mentoon-cartoon-website/static/js/main.712598a1.js",
+    "static/js/787.be9f7cdd.chunk.js": "/Mentoon-cartoon-website/static/js/787.be9f7cdd.chunk.js",
+    "static/media/posterd.png": "/Mentoon-cartoon-website/static/media/posterd.ebc23c1eccfb04c3892b.png",
+    "static/media/posterc.png": "/Mentoon-cartoon-website/static/media/posterc.e8ed40a7d6df9a69ae10.png",
+    "static/media/bag2.png": "/Mentoon-cartoon-website/static/media/bag2.b576ec407c9bcf4d2453.png",
+    "static/media/bag.png": "/Mentoon-cartoon-website/static/media/bag.174669d88504ff2ed912.png",
+    "static/media/Preppersananya.png": "/Mentoon-cartoon-website/static/media/Preppersananya.1e65ab682a7e88c78867.png",
+    "static/media/locket.png": "/Mentoon-cartoon-website/static/media/locket.434959159e0c2ee63de4.png",
+    "static/media/badge.png": "/Mentoon-cartoon-website/static/media/badge.b684b285be8ab661f8ac.png",
+    "static/media/bag3.png": "/Mentoon-cartoon-website/static/media/bag3.006eac7f9b33bc085478.png",
+    "static/media/hoodie.png": "/Mentoon-cartoon-website/static/media/hoodie.9b9bfbe6b770187df3bb.png",
+    "static/media/hoodie2.png": "/Mentoon-cartoon-website/static/media/hoodie2.28a5649c2b3032e37de6.png",
+    "static/media/locket2.png": "/Mentoon-cartoon-website/static/media/locket2.964ff49a16fda34f174d.png",
+    "static/media/pic15.jpg": "/Mentoon-cartoon-website/static/media/pic15.7d5305d07a38b94f2839.jpg",
+    "static/media/pic8.jpg": "/Mentoon-cartoon-website/static/media/pic8.f6e920acb6f0877dcd36.jpg",
+    "static/media/pic1.jpg": "/Mentoon-cartoon-website/static/media/pic1.61a7db32f2087705a31e.jpg",
+    "static/media/pic2.jpg": "/Mentoon-cartoon-website/static/media/pic2.60db73fe88dd821c5163.jpg",
+    "static/media/pic3.jpg": "/Mentoon-cartoon-website/static/media/pic3.6aca97eabdbdaef8e450.jpg",
+    "static/media/pic12.jpg": "/Mentoon-cartoon-website/static/media/pic12.478f3bfa3314b295dfb9.jpg",
+    "static/media/pic14.jpg": "/Mentoon-cartoon-website/static/media/pic14.a33285215e209dc7f665.jpg",
+    "static/media/pic7.jpg": "/Mentoon-cartoon-website/static/media/pic7.a33285215e209dc7f665.jpg",
+    "static/media/pic9.jpg": "/Mentoon-cartoon-website/static/media/pic9.d19655bb4a24b101fd99.jpg",
+    "static/media/pic4.jpg": "/Mentoon-cartoon-website/static/media/pic4.53b6682d970d74af22b9.jpg",
+    "static/media/pic5.jpg": "/Mentoon-cartoon-website/static/media/pic5.9bb62e36dd20b46b4258.jpg",
+    "static/media/pic6.jpg": "/Mentoon-cartoon-website/static/media/pic6.d1449979c06e274b1424.jpg",
+    "static/media/pic10.jpg": "/Mentoon-cartoon-website/static/media/pic10.cd2d0c3f20250408711a.jpg",
+    "static/media/pic13.jpg": "/Mentoon-cartoon-website/static/media/pic13.097d0cccc4621057e074.jpg",
+    "static/media/pic11.jpg": "/Mentoon-cartoon-website/static/media/pic11.1d34865217c511e27270.jpg",
+    "static/media/img.jpeg": "/Mentoon-cartoon-website/static/media/img.071d80f156fe4834664f.jpeg",
+    "static/media/podcasts.jpg": "/Mentoon-cartoon-website/static/media/podcasts.23ff6453acd4061e0aac.jpg",
+    "index.html": "/Mentoon-cartoon-website/index.html",
+    "main.f39140d6.css.map": "/Mentoon-cartoon-website/static/css/main.f39140d6.css.map",
+    "main.712598a1.js.map": "/Mentoon-cartoon-website/static/js/main.712598a1.js.map",
+    "787.be9f7cdd.chunk.js.map": "/Mentoon-cartoon-website/static/js/787.be9f7cdd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f39140d6.css",
+    "static/js/main.712598a1.js"
+  ]
+}
